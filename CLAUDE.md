@@ -2,7 +2,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## 以下を意識して回答してください
 ・開発者本人が、ReactとNode.jsの仕様を理解していない。
-また、Webアプリを行ったことがないので、解説をして理解度を確認し、次の開発へ移ること。解説は長く無くてOK。
+Enまた、Webアプリを行ったことがないので、解説をして理解度を確認し、次の開発へ移ること。解説は長く無くてOK。
 
 ## Develop
 ・このプロジェクトはDDDを採用しており、オニオンアーキテクチャに従っている。
